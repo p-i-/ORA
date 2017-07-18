@@ -1,17 +1,3 @@
-# Course objectives
-
-Uber-Objective is to get moving under your own steam. To give you a birds-eye view
- of the world of iOS-dev so that you can direct your dive-in.
-
-We'll cover:  
- - Remote Linux WebServer / HTML / JS / ssh / etc.
- - Swift language (plus C -> ObjC -> Swift)
- - XCode -- build code to device, debug
- - iOS API + navigate Apple's documentation
- - Using available **Resources** -- Stack Overflow / IRC / Apple Dev site: doc, ibooks, forums, [blogs](https://www.quora.com/What-are-some-good-blogs-about-Apple-Swift) / ...
- - collaboration using GitHub / Gitter
- - alternative frameworks (Unity3D, JUCE) https://clutch.co/app-development/cross-platform
- - Monetizing (iAds etc)
 
 
 ## RESOURCES: SWIFT

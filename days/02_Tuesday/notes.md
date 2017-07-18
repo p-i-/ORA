@@ -1,5 +1,3 @@
-Hello everyone! Sorry for another scrappy day. 
-
 # Digital Ocean
  - what is a droplet?
 
